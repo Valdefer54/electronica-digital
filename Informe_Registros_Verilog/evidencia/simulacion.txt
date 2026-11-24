@@ -1,0 +1,2 @@
+OK: SISO, SIPO, PISO y PIPO; 6304 ciclos verificados
+Informe_Registros_Verilog/codigo/registros_tb.v:109: $finish called at 63046000 (1ps)

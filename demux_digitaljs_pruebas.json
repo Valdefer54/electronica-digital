@@ -1,0 +1,42 @@
+[
+  {
+    "entrada": "000",
+    "salidas": "0000",
+    "pass": true
+  },
+  {
+    "entrada": "001",
+    "salidas": "0000",
+    "pass": true
+  },
+  {
+    "entrada": "010",
+    "salidas": "0000",
+    "pass": true
+  },
+  {
+    "entrada": "011",
+    "salidas": "0000",
+    "pass": true
+  },
+  {
+    "entrada": "100",
+    "salidas": "0001",
+    "pass": true
+  },
+  {
+    "entrada": "101",
+    "salidas": "0010",
+    "pass": true
+  },
+  {
+    "entrada": "110",
+    "salidas": "0100",
+    "pass": true
+  },
+  {
+    "entrada": "111",
+    "salidas": "1000",
+    "pass": true
+  }
+]
